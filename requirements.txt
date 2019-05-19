@@ -1,0 +1,9 @@
+jupyter
+pandas
+play-scraper
+selenium
+bs4
+
+pprint
+market_proto
+
